@@ -1,6 +1,6 @@
-tadka
+Tadka Watch Dynamics
 =====
-This was a display that I made for my Acapella group's Music Director to be able to use my Moto 360 strapped to their hand to direct dynamics while our group did choreo.
+This was a display that I made for my Acapella group's (Taal Tadka at Georgia Tech) Music Director to be able to use my Moto 360 strapped to their hand to direct dynamics while our group did choreo.
 
 We had been having a problem with that for a while in preperation for an audition video.
 
